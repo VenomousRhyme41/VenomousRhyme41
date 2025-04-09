@@ -6,7 +6,7 @@ _A sleek play ratings calculator for tracking player card progression_
 - ✨ Dynamic tier calculations
 - 🎨 Rarity-color-coded interface
 - 📊 XP requirements visualization
-- 🔗 [Live Demo](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc.github.io)
+- 🔗 [Website](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc.github.io)
 
 ### 🐝 [Spelling-Bee-Script](https://github.com/VenomousRhyme41/Spelling-Bee-Script)
 _Spelling Bee autofarm script_

@@ -1,12 +1,12 @@
 # 👋 Hi, I'm VenomousRhyme41!
 
 ## 🛠️ Featured Projects
-### 🏆 [RealSports Card Calculator](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/)
+### 🏆 [RealSports Card Calculator](https://github.com/VenomousRhyme41/RealSports-CardCalc)
 _A sleek play ratings calculator for tracking player card progression_
 - ✨ Dynamic tier calculations
 - 🎨 Rarity-color-coded interface
 - 📊 XP requirements visualization
-- 🔗 [Website](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc.github.io)
+- 🔗 [Website](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc)
 
 ### 🐝 [Spelling-Bee-Script](https://github.com/VenomousRhyme41/Spelling-Bee-Script)
 _Spelling Bee autofarm script_

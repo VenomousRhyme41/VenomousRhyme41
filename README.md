@@ -8,6 +8,13 @@ _A sleek play ratings calculator for tracking player card progression_
 - 📊 XP requirements visualization
 - 🔗 [Website](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc)
 
+### 📺 [Multi-Stream Viewer](https://github.com/VenomousRhyme41/Multi-Stream-Viewer)
+_Watch streams from multiple sites simultaneously in one clean interface. Independent audio controls._
+- Multi-platform support - Works with Twitch, YouTube, and Kick
+- Independent audio control - Mute/unmute streams individually
+- Simple interface - Just paste URLs and watch
+- 🔗 [Website](https://venomousrhyme41.github.io/Multi-Stream-Viewer/) | [Repository](https://github.com/VenomousRhyme41/Multi-Stream-Viewer)
+
 ### 🐝 [Spelling-Bee-Script](https://github.com/VenomousRhyme41/Spelling-Bee-Script)
 _Spelling Bee autofarm script_
 - ⚡ Automatic answer solving

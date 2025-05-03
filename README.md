@@ -8,7 +8,7 @@ _RealSports CardCalc is a beautifully designed web application that helps player
 
 ----
 ### 📺 [Multi-Stream Viewer](https://github.com/VenomousRhyme41/Multi-Stream-Viewer)
-_Watch streams from multiple sites simultaneously in one clean interface. Independent audio controls._
+_Watch streams from multiple sites simultaneously in one clean interface._
 
 🔗 [Website](https://venomousrhyme41.github.io/Multi-Stream-Viewer/) | [Repository](https://github.com/VenomousRhyme41/Multi-Stream-Viewer) | [Video Showcase](https://youtu.be/kNeU4c3-77c?si=lDe_G_5c3ryOVDGL)
 

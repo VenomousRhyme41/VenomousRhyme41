@@ -4,7 +4,7 @@
 ### 🏆 [RealSports Card Calculator](https://github.com/VenomousRhyme41/RealSports-CardCalc)
 _RealSports CardCalc is a beautifully designed web application that helps players track their play rating towards iconic cards in their favorite sports app Real Sports_
 
-🔗 [Website](https://venomousrhyme41.github.io/RealSports-CardCalc.github.io/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc)
+🔗 [Website](https://venomousrhyme41.github.io/RealSports-CardCalc/) | [Repository](https://github.com/VenomousRhyme41/RealSports-CardCalc)
 
 ----
 ### 📺 [Multi-Stream Viewer](https://github.com/VenomousRhyme41/Multi-Stream-Viewer)

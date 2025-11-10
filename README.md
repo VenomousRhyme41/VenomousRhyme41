@@ -2,13 +2,6 @@
 
 ## 🛠️ Featured Projects
 
-### 💀 [Mors Team Website](https://github.com/VenomousRhyme41/Mors-Team-Website)
-_Explore trending game cheats, mod tools, and exploits across top games!_
-
-🔗 [Website](https://morsteam.lol) | [Repository](https://github.com/VenomousRhyme41/Mors-Team-Website)
-
-----
-
 ### 📺 [Multi-Stream Viewer](https://github.com/VenomousRhyme41/Multi-Stream-Viewer)
 _Watch streams from multiple sites simultaneously in one clean interface._
 

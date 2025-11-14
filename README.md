@@ -9,6 +9,13 @@ _Watch streams from multiple sites simultaneously in one clean interface._
 
 ----
 
+### 💀 [Mors Team Website](https://github.com/VenomousRhyme41/Mors-Team-Website)
+_Explore trending game cheats, mod tools, and exploits across top games!_
+
+🔗 [Website](https://morsteam.lol) | [Repository](https://github.com/VenomousRhyme41/Mors-Team-Website)
+
+----
+
 ### 🏆 [RealSports Card Calculator](https://github.com/VenomousRhyme41/RealSports-CardCalc)
 _RealSports CardCalc is a beautifully designed web application that helps players track their play rating towards iconic cards in their favorite sports app Real Sports._
 
@@ -16,16 +23,10 @@ _RealSports CardCalc is a beautifully designed web application that helps player
 
 ----
 
-### 🐝 [Spelling-Bee-Script](https://github.com/VenomousRhyme41/Spelling-Bee-Script)
-_Spelling Bee autofarm script._
+### 🏆 [RoyaleAPI-Highlight-Player](https://github.com/VenomousRhyme41/RoyaleAPI-Highlight-Player)
+_Easily spot and track a specific player on your clan page in RoyaleAPI._
 
-🔗 [Repository](https://github.com/VenomousRhyme41/Spelling-Bee-Script)
-
-----
-### 🏃 [Stud-Long-Jumps-Obby-Script](https://github.com/VenomousRhyme41/Stud-Long-Jumps-Obby-Script)
-_Stud Long Jumps Obby autofarm script._
-
-🔗[Repository](https://github.com/VenomousRhyme41/Stud-Long-Jumps-Obby-Script)
+🔗 [Repository](https://github.com/VenomousRhyme41/RoyaleAPI-Highlight-Player)
 
 ## 📊 GitHub Stats
   

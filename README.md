@@ -9,6 +9,13 @@ _Watch streams from multiple sites simultaneously in one clean interface._
 
 ----
 
+### 👻 [Hidden Character Injector](https://github.com/VenomousRhyme41/Hidden-Character-Injector)
+_Automatically injects hidden characters into your text._
+
+🔗[Website](https://hiddencharacterinjector.online/) | [Repository](https://github.com/VenomousRhyme41/Hidden-Character-Injector)
+
+----
+
 ### 💀 [Mors Team Website](https://github.com/VenomousRhyme41/Mors-Team-Website)
 _Explore trending game cheats, mod tools, and exploits across top games!_
 

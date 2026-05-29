@@ -9,17 +9,17 @@ _TradeVault is the all-in-one journal, playbook, and analytics tool built for se
 
 ----
 
-### 📺 [Multi-Stream Viewer](https://github.com/VenomousRhyme41/Multi-Stream-Viewer)
+### 📺 [Multi-Stream Viewer](https://multi-stream-viewer-kappa.vercel.app/)
 _Watch streams from multiple sites simultaneously in one clean interface._
 
-🔗 [Website](https://venomousrhyme41.github.io/Multi-Stream-Viewer/) | [Repository](https://github.com/VenomousRhyme41/Multi-Stream-Viewer) | [Video Showcase](https://youtu.be/kNeU4c3-77c?si=lDe_G_5c3ryOVDGL)
+🔗 [Website](https://multi-stream-viewer-kappa.vercel.app/) | [Video Showcase](https://youtu.be/kNeU4c3-77c?si=lDe_G_5c3ryOVDGL)
 
 ----
 
-### 👻 [Hidden Character Injector](https://github.com/VenomousRhyme41/Hidden-Character-Injector)
+### 👻 [Hidden Character Injector](https://hiddencharacterinjector.online/)
 _Automatically injects hidden characters into your text._
 
-🔗 [Website](https://hiddencharacterinjector.online/) | [Repository](https://github.com/VenomousRhyme41/Hidden-Character-Injector)
+🔗 [Website](https://hiddencharacterinjector.online/)
 
 ----
 

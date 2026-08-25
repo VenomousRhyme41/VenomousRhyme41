@@ -33,7 +33,7 @@ _A prototype for a customer that ended up not wanting it. Just want to show it o
 ### 💀 [Mors Team Website](https://github.com/VenomousRhyme41/Mors-Team-Website)
 _Explore trending game cheats, mod tools, and exploits across top games!_
 
-🔗 [Website](https://morsteam.lol) | [Repository](https://github.com/VenomousRhyme41/Mors-Team-Website)
+🔗 [Website](https://mors-team-website.vercel.app/) | [Repository](https://github.com/VenomousRhyme41/Mors-Team-Website)
 
 ----
 

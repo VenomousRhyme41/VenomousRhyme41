@@ -37,6 +37,13 @@ _Explore trending game cheats, mod tools, and exploits across top games!_
 
 ----
 
+### 🍔 [Cookout Clue Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)
+_A Cheat Cheat For Cookout Clues_
+
+🔗 [Website](https://cook-out-clues-cheat-cheat.vercel.app/)
+
+----
+
 ## 📊 GitHub Stats
 
 ![Streak Stats](https://streak-stats.demolab.com?user=VenomousRhyme41&theme=dark&hide_border=true)

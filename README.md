@@ -44,6 +44,13 @@ _A Cheat Cheat For Cookout Clues_
 
 ----
 
+### 🚣 [Raft Progress Tracker](https://raft-progress-tracker.vercel.app/)
+_A simple raft progress tracker for Story, Research, and Achievements_
+
+🔗 [Website](https://raft-progress-tracker.vercel.app/)
+
+----
+
 ## 📊 GitHub Stats
 
 ![Streak Stats](https://streak-stats.demolab.com?user=VenomousRhyme41&theme=dark&hide_border=true)

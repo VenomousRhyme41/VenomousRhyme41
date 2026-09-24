@@ -45,7 +45,7 @@ _A Cheat Cheat For Cookout Clues_
 ----
 
 ### 🚣 [Raft Progress Tracker](https://raft-progress-tracker.vercel.app/)
-_A simple raft progress tracker for Story, Research, Characters, Animals, Paintings, and Achievements_
+_A simple raft progress tracker for Story, Notes, Research, Characters, Animals, Paintings, and Achievements_
 
 🔗 [Website](https://raft-progress-tracker.vercel.app/)
 

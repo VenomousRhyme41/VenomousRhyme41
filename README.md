@@ -51,6 +51,13 @@ _A simple raft progress tracker for Story, Notes, Research, Characters, Animals,
 
 ----
 
+### ♠️ [Blackjack Solitaire](https://blackjack-solitaire.vercel.app/)
+_Minimalist Blackjack Solitaire with timed scoring, game history, and a leaderboard._
+
+🔗 [Website](https://blackjack-solitaire.vercel.app/)
+
+----
+
 ## 📊 GitHub Stats
 
 ![Streak Stats](https://streak-stats.demolab.com?user=VenomousRhyme41&theme=dark&hide_border=true)

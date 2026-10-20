@@ -3,16 +3,9 @@
 ## 🛠️ Featured Projects
 
 ### ♠️ [Blackjack Solitaire](https://blackjack-solitaire.vercel.app/)
-_Minimalist Blackjack Solitaire with timed scoring, game history, and a leaderboard._
+_Minimalist Blackjack Solitaire with high scores, leaderboards, achievements, and unlockable rewards._
 
 🔗 [Website](https://blackjack-solitaire.vercel.app/)
-
-----
-
-### 📈 [Trade Vault](https://www.tradevault.website/)
-_TradeVault is the all-in-one journal, playbook, and analytics tool built for serious traders who want to actually understand their edge._
-
-🔗 [Website](https://www.tradevault.website/)
 
 ----
 
@@ -27,6 +20,20 @@ _Watch streams from multiple sites simultaneously in one clean interface._
 _Automatically injects hidden characters into your text._
 
 🔗 [Website](https://hiddencharacterinjector.online/)
+
+----
+
+### 🚣 [Raft Progress Tracker](https://raft-progress-tracker.vercel.app/)
+_A simple raft progress tracker for Story, Notes, Research, Characters, Animals, Paintings, and Achievements_
+
+🔗 [Website](https://raft-progress-tracker.vercel.app/)
+
+----
+
+### 📈 [Trade Vault](https://www.tradevault.website/)
+_TradeVault is the all-in-one journal, playbook, and analytics tool built for serious traders who want to actually understand their edge._
+
+🔗 [Website](https://www.tradevault.website/)
 
 ----
 
@@ -48,13 +55,6 @@ _Explore trending game cheats, mod tools, and exploits across top games!_
 _A Cheat Cheat For Cookout Clues_
 
 🔗 [Website](https://cook-out-clues-cheat-cheat.vercel.app/)
-
-----
-
-### 🚣 [Raft Progress Tracker](https://raft-progress-tracker.vercel.app/)
-_A simple raft progress tracker for Story, Notes, Research, Characters, Animals, Paintings, and Achievements_
-
-🔗 [Website](https://raft-progress-tracker.vercel.app/)
 
 ----
 

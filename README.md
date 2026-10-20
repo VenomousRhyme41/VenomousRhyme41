@@ -2,6 +2,13 @@
 
 ## 🛠️ Featured Projects
 
+### ♠️ [Blackjack Solitaire](https://blackjack-solitaire.vercel.app/)
+_Minimalist Blackjack Solitaire with timed scoring, game history, and a leaderboard._
+
+🔗 [Website](https://blackjack-solitaire.vercel.app/)
+
+----
+
 ### 📈 [Trade Vault](https://www.tradevault.website/)
 _TradeVault is the all-in-one journal, playbook, and analytics tool built for serious traders who want to actually understand their edge._
 
@@ -48,13 +55,6 @@ _A Cheat Cheat For Cookout Clues_
 _A simple raft progress tracker for Story, Notes, Research, Characters, Animals, Paintings, and Achievements_
 
 🔗 [Website](https://raft-progress-tracker.vercel.app/)
-
-----
-
-### ♠️ [Blackjack Solitaire](https://blackjack-solitaire.vercel.app/)
-_Minimalist Blackjack Solitaire with timed scoring, game history, and a leaderboard._
-
-🔗 [Website](https://blackjack-solitaire.vercel.app/)
 
 ----
 

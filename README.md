@@ -44,10 +44,10 @@ _A prototype for a customer that ended up not wanting it. Just want to show it o
 
 ----
 
-### 💀 [Mors Team Website](https://github.com/VenomousRhyme41/Mors-Team-Website)
+### 💀 [Mors Team Website](https://mors-team-website.vercel.app/)
 _Explore trending game cheats, mod tools, and exploits across top games!_
 
-🔗 [Website](https://mors-team-website.vercel.app/) | [Repository](https://github.com/VenomousRhyme41/Mors-Team-Website)
+🔗 [Website](https://mors-team-website.vercel.app/) | [Discord](https://dsc.gg/morsteam)
 
 ----
 

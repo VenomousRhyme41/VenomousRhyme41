@@ -2,10 +2,10 @@
 
 ## 🛠️ Featured Projects
 
-### ♠️ [Blackjack Solitaire](https://blackjack-solitaire.vercel.app/)
+### ♠️ [Blackjack Solitaire](https://www.blackjacksolitaire.site/)
 _Minimalist Blackjack Solitaire with high scores, leaderboards, achievements, and unlockable rewards._
 
-🔗 [Website](https://blackjack-solitaire.vercel.app/)
+🔗 [Website](https://www.blackjacksolitaire.site/)
 
 ----
 

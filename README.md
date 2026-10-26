@@ -44,20 +44,19 @@ _A prototype for a customer that ended up not wanting it. Just want to show it o
 
 ----
 
-### 💀 [Mors Team Website](https://mors-team-website.vercel.app/)
-_Explore trending game cheats, mod tools, and exploits across top games!_
+## 🧪 More Projects
 
-🔗 [Website](https://mors-team-website.vercel.app/) | [Discord](https://dsc.gg/morsteam)
+_Small Side projects:_
+
+- 💀 **[Mors Team Website](https://mors-team-website.vercel.app/)** _- Explore trending game cheats, mod tools, and exploits across top games!_ ([Discord](https://dsc.gg/morsteam))
+- 🍔 **[Cookout Clue Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A Cheat Cheat For Cookout Clues._
+- 🏦 **[Bank Simulator](https://bank-simulator-green.vercel.app/)** _- A simple bank account simulator._
+- 💵 **[Earnings Tracker](https://earnings-tracker-topaz.vercel.app/)** _- Track your earnings over time._
+- 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._
+- 🗺️ **[MapartCraft Materials and Price](https://greasyfork.org/en/scripts/593936-mapartcraft-materials-and-price)** _- Materials and price calculator for Minecraft map art._
+- 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._
 
 ----
-
-### 🍔 [Cookout Clue Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)
-_A Cheat Cheat For Cookout Clues_
-
-🔗 [Website](https://cook-out-clues-cheat-cheat.vercel.app/)
-
-----
-
 ## 📊 GitHub Stats
 
 ![Streak Stats](https://streak-stats.demolab.com?user=VenomousRhyme41&theme=dark&hide_border=true)

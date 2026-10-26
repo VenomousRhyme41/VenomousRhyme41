@@ -49,7 +49,7 @@ _A prototype for a customer that ended up not wanting it. Just want to show it o
 _Small Side projects:_
 
 - 💀 **[Mors Team Website](https://mors-team-website.vercel.app/)** _- Explore trending game cheats, mod tools, and exploits across top games!_ ([Discord](https://dsc.gg/morsteam))
-- 🍔 **[Cookout Clue Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A Cheat Cheat For Cookout Clues._
+- 🍔 **[Cookout Clues Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A Cheat Cheat For Cookout Clues._
 - 🏦 **[Bank Simulator](https://bank-simulator-green.vercel.app/)** _- A simple bank account simulator._
 - 💵 **[Earnings Tracker](https://earnings-tracker-topaz.vercel.app/)** _- Track your earnings over time._
 - 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._

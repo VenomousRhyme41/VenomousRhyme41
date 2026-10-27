@@ -55,7 +55,7 @@ _Small Side projects:_
 - 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._
 - 🗺️ **[MapartCraft Materials and Price](https://greasyfork.org/en/scripts/593936-mapartcraft-materials-and-price)** _- Materials and price calculator for Minecraft map art._
 - 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._
-- 💬 **[Comment Cleaner](https://comment-cleaner.vercel.app/)** _-Removes comments from your code_
+- 💬 **[Comment Cleaner](https://comment-cleaner.vercel.app/)** _- Removes comments from your code_
 
 ----
 ## 📊 GitHub Stats

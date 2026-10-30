@@ -52,7 +52,8 @@ _Small Side projects:_
 - 🎲 **[Random Generator](https://random-number-generator-pied.vercel.app/)** _- A simple random generator with multiple tools._
 - 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._
 - 💀 **[Mors Team Website](https://mors-team-website.vercel.app/)** _- Explore trending game cheats, mod tools, and exploits across top games!_ ([Discord](https://dsc.gg/morsteam))
-- 🍔 **[Cookout Clues Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A Cheat Cheat For Cookout Clues._
+- 🍔 **[Cookout Clues Cheat Sheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A cheat cheat For Cookout Clues._
+- 💡 **[Think Tank Cheat Sheet](https://think-tank-gilt.vercel.app/)** _-A cheat cheat for Think Tank._
 - 💬 **[Comment Cleaner](https://comment-cleaner.vercel.app/)** _- Removes comments from your code_
 - 🏦 **[Bank Simulator](https://bank-simulator-green.vercel.app/)** _- A simple bank dice game simulator._
 - 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._

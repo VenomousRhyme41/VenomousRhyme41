@@ -48,14 +48,15 @@ _A prototype for a customer that ended up not wanting it. Just want to show it o
 
 _Small Side projects:_
 
+- 💵 **[Earnings Tracker](https://earnings-tracker-topaz.vercel.app/)** _- Track your earnings over time._
+- 🎲 **[Random Generator](https://random-number-generator-pied.vercel.app/)** _- A simple random generator with multiple tools._
+- 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._
 - 💀 **[Mors Team Website](https://mors-team-website.vercel.app/)** _- Explore trending game cheats, mod tools, and exploits across top games!_ ([Discord](https://dsc.gg/morsteam))
 - 🍔 **[Cookout Clues Cheat Cheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A Cheat Cheat For Cookout Clues._
-- 🏦 **[Bank Simulator](https://bank-simulator-green.vercel.app/)** _- A simple bank dice game simulator._
-- 💵 **[Earnings Tracker](https://earnings-tracker-topaz.vercel.app/)** _- Track your earnings over time._
-- 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._
-- 🗺️ **[MapartCraft Materials and Price](https://greasyfork.org/en/scripts/593936-mapartcraft-materials-and-price)** _- Materials and price calculator for Minecraft map art._
-- 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._
 - 💬 **[Comment Cleaner](https://comment-cleaner.vercel.app/)** _- Removes comments from your code_
+- 🏦 **[Bank Simulator](https://bank-simulator-green.vercel.app/)** _- A simple bank dice game simulator._
+- 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._
+- 🗺️ **[MapartCraft Materials and Price](https://greasyfork.org/en/scripts/593936-mapartcraft-materials-and-price)** _- Materials and price calculator for Minecraft map art._
 
 ----
 ## 📊 GitHub Stats
